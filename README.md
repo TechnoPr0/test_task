@@ -4,8 +4,8 @@
 #Создание таблицы "employees"
 python main.py 1
 
-#Создание строки с ФИО, датой рождения и полом.
-python main.py 2 "Petrov Ivan Olegovich" 20.12.1980 Male
+#Создание строки с ФИО, датой рождения и полом (Формат даты ГГГГ-ММ-ДД).
+python main.py 2 "Petrov Ivan Olegovich" 1980-12-25 Male
 
 #Отображение таблицы "employees"
 python main.py 3
